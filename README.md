@@ -37,3 +37,10 @@ A simple and responsive Weather Web Application built with HTML, CSS, and JavaSc
 📊 Show extended forecast (5-day weather)
 
 🌙 Add dark/light mode toggle
+
+📌 ***Author***
+---
+
+GitHub: https://github.com/sandyyy20
+
+LinkedIn: https://linkedin.com/in/sandeeptyagi20
